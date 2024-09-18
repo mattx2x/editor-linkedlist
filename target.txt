@@ -1,0 +1,24 @@
+Java is a high-level, class-based, object-oriented programming language that is
+fgjsdgfjsj
+hvn,cxnv,ncx,vn,
+$
+regardless of the underlying computer architecture. The syntax of Java is similar to C and C++,
+po7777777777777777
+java
+kkkdkkd
+9990909
+$
+languages. As of 2019, Java was one of the most popular programming languages in use according to GitHub,[19][20]
+particularly for client–server web applications, with a reported 9 million developers.
+particularly for client–server web applications, with a reported 9 million hell Java
+wwwww
+ yuyyu
+$
+Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary
+licenses. As of May 2007,
+$
+however the official reference implementation is the OpenJDK JVM which is free open-source software and used by
+most developers and is the default JVM for almost all Linux distributions.
+
+As of September 2022, Java 19 is the latest version, while Java 17, 11 and 8 are the current long-term support (LTS) versions.
+$

@@ -1,0 +1,23 @@
+Go is an open source programming language that makes it simple to build secure, scalable systems.
+Golang is useful for carrying out programming for scalable servers and large software systems. 
+The Golang programming language was built to fill in the gaps of C++ and Java that Google came 
+across while working with its servers and distributed systems.
+$
+Rust is a multi-paradigm, high-level, general-purpose programming language.
+Rust emphasizes performance, type safety, and concurrency.
+Rust was built to support system-level programmers who write low-level, byte-tweaking code. 
+It offers access to the raw bits and expects programmers to use it. The language is designed to 
+cohabitate with much of the old C or assembly language code that's part of the lower levels of 
+operating systems and network stacks.
+$
+Kotlin is a cross-platform, statically typed, general-purpose high-level programming language with type inference. 
+Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the 
+Java Class Library, but type inference allows its syntax to be more concise.
+Kotlin is a modern statically typed programming language used by over 60% of professional Android developers that 
+helps boost productivity, developer satisfaction, and code safety.
+$
+C# is a general-purpose high-level programming language supporting multiple paradigms. C# encompasses static typing, 
+strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. 
+Like other general-purpose programming languages, C# can be used to create a number of different programs and applications: 
+mobile apps, desktop apps, cloud-based services, websites, enterprise software and games. Lots and lots of games.
+$
